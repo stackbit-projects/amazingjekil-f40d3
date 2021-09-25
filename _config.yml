@@ -1,0 +1,32 @@
+title: Webjeda cards
+email: your@email.com
+description: >
+  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or
+  any kind of blog.
+url: ''
+default-image: webjeda-logo-big.jpg
+built-by: webjeda
+copyright:
+  name: webjeda
+  link: 'http://blog.webjeda.com'
+markdown: kramdown
+permalink: '/:title/'
+paginate: 6
+paginate_path: '/page:num/'
+analytics: UA-83979019-1
+disqus: 'yes'
+disqus-shortname: webjeda-demo
+facebook: 'http://facebook.com/'
+quora: 'http://quora.com/'
+twitter: 'http://twitter.com/'
+github: 'http://github.com/'
+fb-like-box: 'yes'
+fb-app-id: 549480635219583
+fb-page-url: 'https://www.facebook.com/webjeda/'
+fb-page-title: webjeda
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+baseurl: ''
